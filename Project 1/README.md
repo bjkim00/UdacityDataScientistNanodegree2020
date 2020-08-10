@@ -1,5 +1,9 @@
 # Project 1 - Writing a Data Science Blog Post
 
+## Blog Post
+
+My blog post can be seen [here](https://medium.com/@bkim0018/does-company-size-determine-your-salary-7cb03cd03244). <br> <br>
+
 ## Intro
 
 For this project, I analyzed the Stack Overflow Survey Data for 2017. This data set had over 64,000 developers respond to Stack overflow's annual survey.
