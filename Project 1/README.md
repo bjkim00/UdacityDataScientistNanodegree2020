@@ -22,5 +22,5 @@ The libraries that I used for this project are Pandas, Numpy, Seasborn, Matplotl
 ## Important Notice
 The dataset was over the 25mb requirement for files to be uploaded to Github, so I will include the link to download the dataset below.
 
-The dataset is here the [link](https://www.kaggle.com/stackoverflow/so-survey-2017/data#). <br> <br>
+The dataset is [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data#). <br> <br>
 If you would like to run the notebook, please download the dataset and save the csv file in the same directory as the Jupyter Notebook.
