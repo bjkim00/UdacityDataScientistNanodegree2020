@@ -39,4 +39,6 @@ For this project, I created a machine learning pipeline to classify Distaster Re
 3. Go to http://0.0.0.0:3001/
 
 
-** Notes: classifier.pkl and DisasterResponse.db files were not able to be uploaded to GitHub as the files were too big. However, if you run step 1 in the Instructions, you will end up creating these files in your local workspace, which then can be used for the run.py. Sorry for the inconvenience! **
+**Note: classifier.pkl and DisasterResponse.db files were not able to be uploaded to GitHub as the files were too big. However, if you run step 1 in the Instructions, you will end up creating these files in your local workspace, which then can be used for the run.py. Sorry for the inconvenience!**
+
+
