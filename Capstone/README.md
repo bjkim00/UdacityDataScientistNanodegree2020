@@ -8,6 +8,14 @@ My blog post can be seen [here](https://medium.com/@bkim0018/starbucks-offers-d2
 
 For this project, I analyzed the simulated data that mimics Starbucks Data. This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. My analysis of this data served a purpose to look at how to improve the profits of the offers that Starbucks gives out to its members by looking at variables like demographic data, or when a member joined the Starbucks membership.
 
+Note: I am **purposely deciding to not focus on creating a model** (as stated above in the instructions), but rather **focusing on the heuristics portion**. My main focus of analyzing this data would be to determine what kind of heuristics (age range or income distribution) is the most effective to provide certain types of offers to.
+
+### Questions:
+
+1. When is the month where the most new members join?
+2. What is the average age of the members completing offers? Also, if we look at the distribution of ages, is there a specific age range that is more willing to complete offers?
+3. What is the income distribution like for the members who completed BOGO offers and/or Discount offers?
+
 There were 3 questions that I wanted to answer from this dataset:
 1. When was the month where the most new members join?
 2. What is the average age of the members completing offers? Also, what are the distribution of ages who are more willing to complete offers?
